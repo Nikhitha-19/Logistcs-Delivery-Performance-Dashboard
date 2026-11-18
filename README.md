@@ -70,6 +70,9 @@ The following steps were carried out:
 <img width="584" height="637" alt="image" src="https://github.com/user-attachments/assets/1ab0e12b-8ed5-49a6-888f-613f5ee45a9a" />
 <img width="316" height="131" alt="image" src="https://github.com/user-attachments/assets/d3f1e9a2-cd70-48c5-8045-7fc372d62dca" />
 
+## Creating Date Table
+<img width="365" height="209" alt="image" src="https://github.com/user-attachments/assets/3a3c1770-5663-41e3-88ca-62c86424e17e" />
+
 
 ## Dashboard Features
 
