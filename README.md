@@ -61,6 +61,16 @@ The following steps were carried out:
 - Established relationships between tables.
 - Created DAX measures for KPIs and business metrics.
 
+## Calculated DAX
+<img width="491" height="542" alt="image" src="https://github.com/user-attachments/assets/61e8a8bb-4a7b-47b8-a3de-df3688b357c0" />
+<img width="520" height="561" alt="image" src="https://github.com/user-attachments/assets/c35f8e13-fede-4104-b850-4a026addc3df" />
+
+
+## Calculated Columns
+<img width="584" height="637" alt="image" src="https://github.com/user-attachments/assets/1ab0e12b-8ed5-49a6-888f-613f5ee45a9a" />
+<img width="316" height="131" alt="image" src="https://github.com/user-attachments/assets/d3f1e9a2-cd70-48c5-8045-7fc372d62dca" />
+
+
 ## Dashboard Features
 
 The project consists of **two interactive dashboard pages**.
