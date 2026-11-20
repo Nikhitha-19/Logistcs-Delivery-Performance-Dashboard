@@ -164,7 +164,7 @@ Based on the analysis, logistics management can consider the following actions:
 ## Dashboard Preview
 
 ### Dashboard 1 – Delivery Performance & Delay Analysis
-<img width="1262" height="723" alt="Delivery Performance   Delay Analysis Dashboard" src="https://github.com/user-attachments/assets/e4324c76-c789-411b-a689-1fc3b6a53e90" />
+<img width="1224" height="699" alt="Dashboard-1" src="https://github.com/user-attachments/assets/c3df78ab-33f6-4660-9b87-de4d6d170056" />
 
 ### Dashboard 2 – Shipment Delivery Insights
 <img width="1265" height="726" alt="Shipment Delivery Insights" src="https://github.com/user-attachments/assets/9d6b795b-a0ce-455f-a6cd-e7254551b3da" />
